@@ -22,3 +22,6 @@ Data were extracted from images that were taken from genuine and forged banknote
 Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. Wavelet Transform tool were used to extract features from images.  
 
 </table>
+
+
+**So what are you waiting for..? Jump to the code to get started to make this amazing project in R. As usual for any doubt or query see you in pull request section 😁😂. Thanks!**
