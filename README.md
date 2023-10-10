@@ -3,7 +3,7 @@
 <table>
   
 **In this project We'll use the Bank Authentication Data Set from the UCI repository**.<br></br>
-Here we make use of neuralnet and randomforest model to do this project.<br>
+Here we make use of NeuralNet and RandomForest model to do this project in R.<br>
 Data were extracted from images that were taken for the evaluation of an authentication procedure for banknotes.<br></br>
 **The data consists of 5 columns**:<br>
 
