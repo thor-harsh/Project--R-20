@@ -11,7 +11,7 @@ skewness of Wavelet Transformed image (continuous)<br></br>
 curtosis of Wavelet Transformed image (continuous)<br></br>
 entropy of image (continuous)<br></br>
 class (integer)<br></br>
-Where class indicates whether or not a Bank Note was authentic.
+We will predict class Where class indicates whether or not a Bank Note was authentic.Here we make use of neuralnet and randomforest model to do this project.
 
 
 
