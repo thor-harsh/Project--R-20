@@ -14,7 +14,7 @@ entropy of image (continuous)<br></br>
 class (integer)<br></br>
 We will predict class Where class indicates whether or not a Bank Note was authentic.<br></br>
 
-**Here we make use of NeuralNet and RandomForest model to do this project.**
+**Here we make use of NeuralNet and RandomForest model to do this project.** <br></br>
 
 **Additional Information**<br></br>
 
